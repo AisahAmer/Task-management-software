@@ -41,6 +41,8 @@ TaskMate helps users achieve personal organization and increase productivity, an
 And follow up on progress and achievements, as it enhances the effectiveness of time management and achieving goals with high accuracy.
 
 Contributors
+Description:
+This is a an exercise to apply some to Do-it project.
 
 Ruba Ahmed Mohammed 
 
